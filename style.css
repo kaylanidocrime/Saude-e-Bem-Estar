@@ -34,8 +34,8 @@ body {
 }
 
 #empresa{
-    background-image: linear-gradient(#98FB98,#9ACD32);
-    color:white;
+    background-image: linear-gradient(#00FFFF,#00CED1);
+    color:Black;
     display: flex;
     justify-content: center;
     align-items: center;
